@@ -1,0 +1,6 @@
+@API_Computacion_Movil_Luis_HostAddress = http://localhost:5264
+
+GET {{API_Computacion_Movil_Luis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
