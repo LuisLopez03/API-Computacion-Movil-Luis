@@ -14,4 +14,4 @@ ENV ASPNETCORE_URLS=http://+:10000
 
 EXPOSE 10000
 
-ENTRYPOINT ["dotnet", "API-Computacion-Movil-Luis.dll"]
+ENTRYPOINT ["dotnet", "API-Computacion_Movil-Luis.dll"]
